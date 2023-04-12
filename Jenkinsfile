@@ -4,4 +4,4 @@ env.app_lang = "python"
 env.component = "payment"
 
 
-ci()
+ci_scripted()
