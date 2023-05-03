@@ -1,2 +1,2 @@
-component : frontend
-params:
+component : payment
+params: "CART_HOST:prod.payment.cart_host,CART_PORT:prod.payment.cart_port,USER_HOST:prod.payment.user_host,USER_PORT:prod.payment.user_port,AMQP_HOST:prod.payment.amqp_host,AMQP_USER:prod.payment.amqp_user,AMQP_PASS:prod.payment.amqp_pass"
